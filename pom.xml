@@ -29,7 +29,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
   <!-- Dependency Versions -->
   <derby.version>10.11.1.1</derby.version>
   <eclipselink.version>2.5.2</eclipselink.version>
-  <guice.version>4.0</guice.version>
+  <guice.version>4.1.0</guice.version>
   <hibernate.version>4.3.8.Final</hibernate.version>
   <jackson.version>1.9.13</jackson.version>
   <javax-persistence.version>2.1.0</javax-persistence.version>
